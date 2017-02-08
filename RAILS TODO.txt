@@ -1,0 +1,34 @@
+
+
+Senior:
+
+Analyse and profile an application for performance and memory issues
+Analyses and profile an application for security issues
+Understand database modeling and query analysis
+Tune a production deployment (Passenger, Thin, Apache etc)
+Understand and use Ruby metaprogramming
+Mentoring skills
+Communication skills
+Planning and Estimation
+
+Mid-level:
+
+Setup and deploy a Rails App for production
+Understand the Rails stack - callbacks, filters, plugins, engines, gems, rack
+Understand and use Active Record associations
+Understand and use scopes to define model abstractions
+Define tests using Cucumber and rSpec
+Understand and use Object Orientation
+Understand and use Design Patterns (explain what they are, know some basic patterns)
+
+Entry Level:
+
+Create and setup a Rails environment
+Use generators to create models, controllers and migrations
+Create and use a migration to manage the database
+Create a unit test using rspec/etc
+Create a model and basic validations
+Handle a GET request using a Controller, Model, and View
+Handle a POST request using a Controller, Model, and View
+Basic HTML, CSS and JavaScript
+Basic GIT - clone, commit, push

@@ -1,0 +1,10 @@
+1)major problem and challenge faced during project
+
+ans) app ready, weberver ready, all ready, customer happy, everything working..publishing house, 4lakh users. problem when went live starting uploading live data it.(issues)data was multibyte, data was big 
+
+
+ans) huge data of 1 gb. server time limit was 30secs. overcame by uploading to aws.
+
+
+2) architectural detail of project
+
